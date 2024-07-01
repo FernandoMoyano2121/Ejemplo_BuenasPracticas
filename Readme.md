@@ -40,9 +40,8 @@
 
 ### Typography
 
-```
-
---ff-spartan: 'League Spartan', sans-serif;
+```css
+--ff-spartan: "League Spartan", sans-serif;
 
 --fs-1: 3.6rem;
 --fs-2: 2.4rem;
@@ -52,7 +51,6 @@
 
 --fw-600: 600;
 --fw-500: 500;
-
 ```
 
 ### Spacing
